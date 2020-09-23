@@ -1,0 +1,37 @@
+Type=Exe
+Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#E:\WINNT\System32\stdole2.tlb#OLE Automation
+Reference=*\G{00000205-0000-0010-8000-00AA006D2EA4}#2.5#0#E:\Program Files\Common Files\System\ADO\msado25.tlb#Microsoft ActiveX Data Objects 2.5 Library
+Object={0508871B-4AF1-45CA-8C66-F80FBDC5E620}#10.0#0; acSuperGrid.ocx
+Form=frmMain.frm
+Object={831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0; MsComCtl.ocx
+IconForm="frmMain"
+Startup="frmMain"
+ExeName32="Test.exe"
+Path32="..\..\SuperGrid 1.0\Test"
+Command32=""
+Name="Test"
+HelpContextID="0"
+CompatibleMode="0"
+MajorVer=1
+MinorVer=0
+RevisionVer=0
+AutoIncrementVer=0
+ServerSupportFiles=0
+CompilationType=0
+OptimizationType=0
+FavorPentiumPro(tm)=0
+CodeViewDebugInfo=0
+NoAliasing=0
+BoundsCheck=0
+OverflowCheck=0
+FlPointCheck=0
+FDIVCheck=0
+UnroundedFP=0
+StartMode=0
+Unattended=0
+Retained=0
+ThreadPerObject=0
+MaxNumberOfThreads=1
+
+[MS Transaction Server]
+AutoRefresh=1
